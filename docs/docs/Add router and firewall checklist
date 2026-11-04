@@ -1,0 +1,16 @@
+# Wi-Fi Security
+
+## Recommended settings
+| Setting | Recommendation |
+|---|---|
+| Encryption | WPA3 if supported, otherwise WPA2 with AES |
+| Wi-Fi password | Long passphrase, shared only with staff |
+| WPS | Turn off |
+| Network name (SSID) | Do not include the business name or personal details |
+| Guest network | Separate network with its own password |
+| Admin page | Protected with a strong password |
+
+## Good habits
+- Change the Wi-Fi password when someone leaves the team.
+- Check the list of connected devices regularly and remove ones you do not recognise.
+- Keep access point firmware updated.
